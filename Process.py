@@ -31,7 +31,7 @@ class Process:
             self.path
             , ""
         ]
-        utils = Utils.Util(prefix)
+        utils = Utils.Utils(prefix)
         excel_dict = utils.get_excel_to_dict()
         read_index = excel_dict[self.col01]
         read_quide = excel_dict[self.col02]
@@ -60,7 +60,7 @@ class Process:
             self.path
             ,""
         ]
-        read_excel = Utils.Util(prefix)
+        read_excel = Utils.Utils(prefix)
         read_index_guide = read_excel.get_excel()
         # read_index = read_index_guide['INDEX']
         # read_quide = read_index_guide['Guide (X19)']
@@ -93,7 +93,7 @@ class Process:
             self.path
             , ""
         ]
-        utils = Utils.Util(prefix)
+        utils = Utils.Utils(prefix)
         excel_dict = utils.get_excel_to_dict()
         read_index  = excel_dict[self.col01]
         read_barcode  = excel_dict[self.col02]

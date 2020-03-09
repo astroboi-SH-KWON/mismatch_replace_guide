@@ -3,10 +3,10 @@ from time import clock
 import pandas as pd
 
 
-class Util:
+class Utils:
     def __init__(self, prefix):
         self.path = prefix[0]
-        self.ext = ".xlsx"
+        self.ext_xlsx = ".xlsx"
         self.result = prefix[1]
 
     """
@@ -84,6 +84,6 @@ class Util:
                     sheet.cell(row=row, column=col, value=str(g_idx))
             row = row + 1
 
-        workbook.save(filename=self.path + str(clock()) + self.ext)
+        workbook.save(filename=self.path + str(clock()) + self.ext_xlsx)
 
 

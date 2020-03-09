@@ -9,7 +9,8 @@ CNT = 2
 PREFIX_TARGET_ARR = [
     # "D:/000_WORK/KimNahye/20200304/Lib 10fg - 복사본 (2) - 복사본.xlsx"
     # "D:/000_WORK/KimNahye/20200304/Lib 10fg.xlsx"
-    "D:/000_WORK/KimNahye/20200304/Genomic 10ng_다시.xlsx"
+    # "D:/000_WORK/KimNahye/20200304/Genomic 10ng_다시.xlsx"
+    "D:/000_WORK/KimNahye/20200304/Genomic 10ng_2.xlsx"
     , "INDEX"
     , "barcode"
     , "guide"
@@ -37,7 +38,8 @@ PREFIX_COMP_ARR = [
 
 # REULT_PATH = "D:/000_WORK/KimNahye/20200304/Lib 10fg_result_test"
 # REULT_PATH = "D:/000_WORK/KimNahye/20200304/Lib 10fg_result_"
-REULT_PATH = "D:/000_WORK/KimNahye/20200304/Genomic 10ng_다시_result_"
+# REULT_PATH = "D:/000_WORK/KimNahye/20200304/Genomic 10ng_다시_result_"
+REULT_PATH = "D:/000_WORK/KimNahye/20200304/Genomic 10ng_2_result_"
 ############### end setting env #################
 
 def main():
@@ -48,7 +50,7 @@ def main():
     # print(len(target_dict))
     # print(target_dict)
     result = process2.get_data(CNT,idx_guide_dict,target_dict)
-    util = Utils.Util([REULT_PATH, result])
+    util = Utils.Utils([REULT_PATH, result])
     util.make_excel()
 
 
