@@ -26,6 +26,82 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mismatch_replace_guide" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mismatch_replace_guide" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mismatch_replace_guide" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Github\mismatch_replace_guide\Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Test (1)" />
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,11 +125,100 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583387270238</updated>
-      <workItem from="1583387274968" duration="34000" />
+      <workItem from="1583387274968" duration="8649000" />
+      <workItem from="1583452858821" duration="7144000" />
+      <workItem from="1583468058904" duration="16576000" />
+      <workItem from="1583709775285" duration="5000" />
+      <workItem from="1583709805430" duration="9965000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2270" y="301" key="FileChooserDialogImpl" timestamp="1583387569698">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="2270" y="301" key="FileChooserDialogImpl/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583387569698" />
+    <state width="1019" height="696" key="GridCell.Tab.0.bottom" timestamp="1583719466956">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="696" key="GridCell.Tab.0.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719466956" />
+    <state width="1019" height="696" key="GridCell.Tab.0.center" timestamp="1583719466956">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="696" key="GridCell.Tab.0.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719466956" />
+    <state width="1019" height="696" key="GridCell.Tab.0.left" timestamp="1583719466955">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="696" key="GridCell.Tab.0.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719466955" />
+    <state width="1019" height="696" key="GridCell.Tab.0.right" timestamp="1583719466956">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="696" key="GridCell.Tab.0.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719466956" />
+    <state width="1019" height="708" key="GridCell.Tab.1.bottom" timestamp="1583719014887">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="708" key="GridCell.Tab.1.bottom/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719014887" />
+    <state width="1019" height="708" key="GridCell.Tab.1.center" timestamp="1583719014886">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="708" key="GridCell.Tab.1.center/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719014886" />
+    <state width="1019" height="708" key="GridCell.Tab.1.left" timestamp="1583719014886">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="708" key="GridCell.Tab.1.left/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719014886" />
+    <state width="1019" height="708" key="GridCell.Tab.1.right" timestamp="1583719014887">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="1019" height="708" key="GridCell.Tab.1.right/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583719014886" />
+    <state x="1992" y="188" key="SettingsEditor" timestamp="1583387594524">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="1992" y="188" key="SettingsEditor/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583387594524" />
+    <state width="517" height="968" key="XDebugger.FullValuePopup" timestamp="1583713874503">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state width="517" height="968" key="XDebugger.FullValuePopup/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583713874503" />
+    <state x="2183" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1583709808446">
+      <screen x="1982" y="-414" width="1018" height="1920" />
+    </state>
+    <state x="2183" y="370" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583709808446" />
+    <state x="922" y="0" width="943" height="1087" key="dock-window-1" timestamp="1583712819713">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="922" y="0" width="943" height="1087" key="dock-window-1/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583712819713" />
+    <state x="754" y="0" width="904" height="1166" key="dock-window-2" timestamp="1583714595732">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="754" y="0" width="904" height="1166" key="dock-window-2/0.0.1858.1080/1982.-414.1018.1920@1982.-414.1018.1920" timestamp="1583714595732" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Utils.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="val_arr[8]" language="Python" />
+        <watch expression="isinstance(g_idx, list)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mismatch_replace_guide$Main.coverage" NAME="Main Coverage Results" MODIFIED="1583719466950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mismatch_replace_guide$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1583714216337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mismatch_replace_guide$test.coverage" NAME="Test Coverage Results" MODIFIED="1583399257967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
